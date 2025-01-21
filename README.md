@@ -1,16 +1,26 @@
-## Hi there 👋
+#### 🧑‍💻 About Me
 
-<!--
-**Meyric/Meyric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Eric**, a **Junior Network Engineer** working at **Breuninger**. Doing stuff in network automation, operating and engineering, striving to make complex infrastructures more efficient and reliable. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+
+Here are the tools and technologies I work with on a daily basis:
+
+- **Programming & Scripting**: `Python`, `Ansible`, `Terraform`
+- **Networking**: `Juniper`, `Aruba`, `HPE`, `Allied Telesis`
+- **Applications**: `Netbox`, `checkmk`
+- **Automation**: Building and maintaining automated workflows to streamline network operations.
+
+---
+
+#### What I’m currently working on
+
+- Expanding my knowledge in network automation.
+- Automating our configs & rollouts.
+- Tuning our network-monitoring with checkmk.
+
+---
+
+Thanks for stopping by! 
